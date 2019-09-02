@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"hiennguyen.io/decode"
+	"github.com/hiennguyen1610/decode"
 )
 
 func main(){
